@@ -9,7 +9,6 @@ a{
     text-decoration: none;
 }
 
-
 .head_button_main{
     background-color: #191a50;
     color: #fff;
@@ -101,6 +100,7 @@ a{
     cursor: pointer;
 }
 
+
 .head_button_text{
     margin-top: 5px;
     margin-left: 185px;
@@ -115,41 +115,27 @@ a{
     background-color: #191a50;
 }
 
-.chuck_photo{
-    display: inline-block;
-    border: solid 2px #000;
-}
-
-.chuck_title{
-    display: flex;
-    margin-left: 555px;
-    font-family: Stencil Std, fantasy;
-}
-
-.chuck_text{
-    display: flex;
-
-}
-
 .container{
-    width: 1380px;
-    height: 621px;
+    height: 840px;
+    width: 100%;
     border: solid 2px #000;
     overflow-y: auto;
-    margin-top: -628px;
-    margin-left: 510px;
 }
 
-.advert{
-    height: 158px;
-    width: 1890px;
-    display: inline-block;
-    border: solid 2px #000;
+.massage_container{
+    min-height: 200px;
+    max-height: fit-content;
+    width: 1870px;
+    border: 2px solid #000;
+    background-color: #dadada;
     margin-top: 5px;
+    margin-left: 5px;
 }
 
-#advert_img{
-    display: inline-block;
-    width: 1890px;
-    height: 160px;
+.massage_author{
+    margin-left: 10px;
+}
+
+.massage_text{
+    margin-left: 10px;
 }
