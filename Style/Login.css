@@ -1,0 +1,117 @@
+.head_container{
+    height: 30px;
+    width: 100%;
+    color: #191a50;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.head_button_main{
+    background-color: #191a50;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    position: fixed;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.head_button_shop{
+    background-color: #191a50;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    position: fixed;
+    display: inline-block;
+    margin-left: 475px;
+    text-decoration: none;
+}
+
+.head_button_jokes{
+    background-color: #191a50;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    position: fixed;
+    display: inline-block;
+    margin-left: 950px;
+    text-decoration: none;
+}
+
+.head_button_login{
+    background-color: #191a50;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    position: fixed;
+    display: inline-block;
+    margin-left: 1425px;
+    text-decoration: none;
+}
+
+
+.head_button_main:hover{
+    background-color: #26277a;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    position: fixed;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.head_button_shop:hover{
+    background-color: #26277a;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    position: fixed;
+    display: inline-block;
+    margin-left: 475px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.head_button_jokes:hover{
+    background-color: #26277a;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    position: fixed;
+    display: inline-block;
+    margin-left: 950px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.head_button_login:hover{
+    background-color: #26277a;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    position: fixed;
+    display: inline-block;
+    margin-left: 1425px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.head_button_text{
+    margin-top: 5px;
+    margin-left: 185px;
+    display: inline-block;
+}
+
+.line{
+    display: inline-block;
+    margin-top: 20px;
+    height: 5px;
+    width: 100%;
+    background-color: #191a50;
+}
+
