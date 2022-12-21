@@ -1,0 +1,84 @@
+.head_container{
+    height: 30px;
+    width: 100%;
+    color: #191a50;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+}
+
+.head_button{
+    background-color: #191a50;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    display: inline-block;
+    margin-left: 5px;
+    text-decoration: none;
+}
+
+.head_button:hover{
+    background-color: #26277a;
+    color: #fff;
+    height: 50px;
+    width: 465px;
+    display: inline-block;
+    margin-left: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.head_button_text{
+    margin-top: 5px;
+    margin-left: 185px;
+    display: inline-block;
+}
+
+.line{
+    display: inline-block;
+    margin-top: 20px;
+    height: 5px;
+    width: 100%;
+    background-color: #191a50;
+}
+
+.chuck_photo{
+    display: inline-block;
+    border: solid 2px #000;
+}
+
+.chuck_title{
+    display: flex;
+    margin-left: 555px;
+    font-family: Stencil Std, fantasy;
+}
+
+.chuck_text{
+    display: flex;
+
+}
+
+.container{
+    width: 1380px;
+    height: 621px;
+    border: solid 2px #000;
+    overflow-y: auto;
+    margin-top: -628px;
+    margin-left: 510px;
+}
+
+.advert{
+    height: 158px;
+    width: 1890px;
+    display: inline-block;
+    border: solid 2px #000;
+    margin-top: 5px;
+}
+
+#advert_img{
+    display: inline-block;
+    width: 1890px;
+    height: 160px;
+}
