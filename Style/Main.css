@@ -141,7 +141,7 @@ a{
 }
 
 .advert{
-    height: 158px;
+    height: 200px;
     width: 1890px;
     display: inline-block;
     border: solid 2px #000;
@@ -151,5 +151,5 @@ a{
 #advert_img{
     display: inline-block;
     width: 1890px;
-    height: 160px;
+    height: 200px;
 }
